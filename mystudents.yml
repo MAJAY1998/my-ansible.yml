@@ -1,0 +1,24 @@
+---
+- mystudents:
+
+   - name: ajay
+     ph.no.: 9912703257
+     address:
+       - h.no.: 3/87
+       - street: 2nd
+       - colony: vvpet
+
+   - name: hari
+     ph.no.: 8500036970
+     address: 
+       - h.no.: 3/87
+       - street: 2nd
+       - colony: vvpet
+
+
+   - name: ganesh
+     ph.no.: 9440635270
+     address: 
+       - h.no.: 3/87
+       - street: 2nd
+       - colony: vvpet
